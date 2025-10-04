@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<!-- Rule of thumb:
+If it’s small and reusable, put it in components/.
+If it’s a screen/page tied to a route, put it in pages/.
+If it’s a structural layout piece, put it in layout/ -->

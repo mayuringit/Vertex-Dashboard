@@ -1,4 +1,3 @@
-import React from 'react';
 import { Typography, Container, Box, Paper } from '@mui/material';
 
 function RegisterPage() {
